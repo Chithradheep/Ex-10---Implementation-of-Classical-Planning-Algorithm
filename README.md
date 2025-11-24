@@ -1,7 +1,8 @@
-ExpNo:10 Implementation of Classical Planning Algorithm
-Algorithm or Steps Involved:
-NAME: ABINAYA.A
-REG NO:212224230004
+#ExpNo:10 Implementation of Classical Planning Algorithm 
+
+**NAME: **
+**REG NO:**
+##Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
 Define the actions
