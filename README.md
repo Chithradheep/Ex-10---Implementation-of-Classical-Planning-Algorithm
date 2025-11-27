@@ -128,7 +128,7 @@ print(plan)      # EXPECTED: []
 ```
 
 ### OUTPUT
-<img width="381" height="175" alt="image" src="https://github.com/user-attachments/assets/382cd5b3-0654-4151-84c5-b88c30c15b84" />
+<img width="336" height="63" alt="image" src="https://github.com/user-attachments/assets/793b1f7d-120d-4c8e-84d2-afb7aebca00b" />
 
 ## RESULT
 Thus the program to implement Classical Planning Algorithm has been executed successfully.
