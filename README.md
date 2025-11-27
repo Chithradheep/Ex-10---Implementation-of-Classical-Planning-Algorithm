@@ -1,4 +1,4 @@
-### ExpNo:10 Implementation of Classical Planning Algorithm 
+# ExpNo:10 Implementation of Classical Planning Algorithm 
 
 ## NAME: Chithradheep R
 ## REG NO: 2305002003
